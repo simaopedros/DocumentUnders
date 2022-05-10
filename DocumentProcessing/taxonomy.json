@@ -1,0 +1,666 @@
+﻿{
+  "DataContractVersion": "1.1",
+  "DocumentTypes": [
+    {
+      "DocumentTypeId": "IRS.Forms.Form1040x",
+      "Group": "IRS",
+      "Category": "Forms",
+      "Name": "Form1040x",
+      "OptionalUniqueIdentifier": null,
+      "TypeField": {
+        "FieldId": "IRS.Forms.Form1040x.DocumentType",
+        "FieldName": "Document Type"
+      },
+      "Fields": [
+        {
+          "FieldId": "IRS.Forms.Form1040x.return-2019",
+          "FieldName": "return-2019",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.return-2018",
+          "FieldName": "return-2018",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.return-2017",
+          "FieldName": "return-2017",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.return-2016",
+          "FieldName": "return-2016",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.first-name",
+          "FieldName": "first-name",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.last-name",
+          "FieldName": "last-name",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.social-security-number",
+          "FieldName": "social-security-number",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.spouses-first-name",
+          "FieldName": "spouses-first-name",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.spouses-last-name",
+          "FieldName": "spouses-last-name",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.spouses-social-security-number",
+          "FieldName": "spouses-social-security-number",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.address-line-1",
+          "FieldName": "address-line-1",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.apartment-number",
+          "FieldName": "apartment-number",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.phone-number",
+          "FieldName": "phone-number",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.city-town-zip",
+          "FieldName": "city-town-zip",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.filling-status-single",
+          "FieldName": "filling-status-single",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.filling-status-married-filling-jointly",
+          "FieldName": "filling-status-married-filling-jointly",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.filling-status-married-filling-separately",
+          "FieldName": "filling-status-married-filling-separately",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.filling-status-qualifying-widower",
+          "FieldName": "filling-status-qualifying-widower",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.filling-status-head-of-household",
+          "FieldName": "filling-status-head-of-household",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.dependants",
+          "FieldName": "dependents",
+          "IsMultiValue": false,
+          "Type": "Table",
+          "DeriveFieldsFormat": "",
+          "Components": [
+            {
+              "FieldId": "IRS.Forms.Form1040x.dependants.first-last-name",
+              "FieldName": "first-last-name",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [
+                {
+                  "Key": "RequiresReference",
+                  "Value": "true"
+                }
+              ]
+            },
+            {
+              "FieldId": "IRS.Forms.Form1040x.dependants.social-security-number",
+              "FieldName": "social-security-number",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [
+                {
+                  "Key": "RequiresReference",
+                  "Value": "true"
+                }
+              ]
+            },
+            {
+              "FieldId": "IRS.Forms.Form1040x.dependants.relationship-to-you",
+              "FieldName": "relationship-to-you",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [
+                {
+                  "Key": "RequiresReference",
+                  "Value": "true"
+                }
+              ]
+            },
+            {
+              "FieldId": "IRS.Forms.Form1040x.dependants.child-tax-credit",
+              "FieldName": "child-tax-credit",
+              "IsMultiValue": false,
+              "Type": "Boolean",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [
+                {
+                  "Key": "RequiresReference",
+                  "Value": "true"
+                }
+              ]
+            },
+            {
+              "FieldId": "IRS.Forms.Form1040x.dependants.credit-for-other-dependants",
+              "FieldName": "credit-for-other-dependants",
+              "IsMultiValue": false,
+              "Type": "Boolean",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [
+                {
+                  "Key": "RequiresReference",
+                  "Value": "true"
+                }
+              ]
+            }
+          ],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.signature",
+          "FieldName": "signature",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.date",
+          "FieldName": "date",
+          "IsMultiValue": false,
+          "Type": "Date",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.spouses-signature",
+          "FieldName": "spouses-signature",
+          "IsMultiValue": false,
+          "Type": "Boolean",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "IRS.Forms.Form1040x.spouses-date",
+          "FieldName": "spouses-date",
+          "IsMultiValue": false,
+          "Type": "Date",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "DocumentTypeId": "Insurance.Reports.VehicleDamageReport",
+      "Group": "Insurance",
+      "Category": "Reports",
+      "Name": "VehicleDamageReport",
+      "OptionalUniqueIdentifier": null,
+      "TypeField": {
+        "FieldId": "Insurance.Reports.VehicleDamageReport.DocumentType",
+        "FieldName": "Document Type"
+      },
+      "Fields": [
+        {
+          "FieldId": "Insurance.Reports.VehicleDamageReport.registration-number",
+          "FieldName": "registration-number",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "Insurance.Reports.VehicleDamageReport.inspector-name",
+          "FieldName": "inspector-name",
+          "IsMultiValue": false,
+          "Type": "Name",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "Insurance.Reports.VehicleDamageReport.vehicle-license-number",
+          "FieldName": "vehicle-license-number",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "Insurance.Reports.VehicleDamageReport.driving-license-number",
+          "FieldName": "driving-license-number",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "Insurance.Reports.VehicleDamageReport.cost-of-damage",
+          "FieldName": "cost-of-damage",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Groups": [
+    {
+      "Name": "Insurance",
+      "Categories": [
+        "Reports"
+      ]
+    },
+    {
+      "Name": "IRS",
+      "Categories": [
+        "Forms"
+      ]
+    }
+  ],
+  "SupportedLanguages": [
+    {
+      "Name": "Undetermined Language",
+      "Code": "und"
+    },
+    {
+      "Name": "Bulgarian",
+      "Code": "bul"
+    },
+    {
+      "Name": "Cantonese",
+      "Code": "yue"
+    },
+    {
+      "Name": "Danish",
+      "Code": "dan"
+    },
+    {
+      "Name": "Dutch",
+      "Code": "nld"
+    },
+    {
+      "Name": "English",
+      "Code": "eng"
+    },
+    {
+      "Name": "French",
+      "Code": "fra"
+    },
+    {
+      "Name": "Georgian",
+      "Code": "kat"
+    },
+    {
+      "Name": "German",
+      "Code": "deu"
+    },
+    {
+      "Name": "Greek",
+      "Code": "ell"
+    },
+    {
+      "Name": "Hebrew",
+      "Code": "heb"
+    },
+    {
+      "Name": "Hindi",
+      "Code": "hin"
+    },
+    {
+      "Name": "Italian",
+      "Code": "ita"
+    },
+    {
+      "Name": "Japanese",
+      "Code": "jpn"
+    },
+    {
+      "Name": "Korean",
+      "Code": "kor"
+    },
+    {
+      "Name": "Macedonian",
+      "Code": "mkd"
+    },
+    {
+      "Name": "Mandarin",
+      "Code": "zho"
+    },
+    {
+      "Name": "Marathi",
+      "Code": "mar"
+    },
+    {
+      "Name": "Norwegian",
+      "Code": "nor"
+    },
+    {
+      "Name": "Polish",
+      "Code": "pol"
+    },
+    {
+      "Name": "Portuguese",
+      "Code": "por"
+    },
+    {
+      "Name": "Romanian",
+      "Code": "ron"
+    },
+    {
+      "Name": "Russian",
+      "Code": "rus"
+    },
+    {
+      "Name": "Serbian",
+      "Code": "srp"
+    },
+    {
+      "Name": "Spanish",
+      "Code": "spa"
+    },
+    {
+      "Name": "Swedish",
+      "Code": "swe"
+    },
+    {
+      "Name": "Telugu",
+      "Code": "tel"
+    }
+  ]
+}
